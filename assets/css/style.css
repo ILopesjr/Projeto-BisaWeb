@@ -1,0 +1,26 @@
+main{
+	margin: auto;
+	text-align: center;
+	display: table;
+	font-weight: bold;
+}
+
+.title{
+	text-align: center;
+	color: black;
+	font-size: larger;
+	text-decoration-line: underline;
+}
+
+.pdf{
+	padding: 1rem;
+}
+
+.pdf tr{
+	text-align: center;
+}
+
+.pdf td{
+	padding:  1rem 4rem;
+	border-style: dashed;
+}
